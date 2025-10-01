@@ -29,7 +29,7 @@ Följ stegen nedan för att ladda ner och köra projektet lokalt på din dator:
 
 **1. Klona projektet från GitHub:**  
 >Öppna terminalen och skriv följande:  
->git clone https://github.com/vczarnotta/about-me.git
+>git clone https://github.com/vczarnotta/CSS-grid-workshop
    
 **2. Öppna index.html med Live Server:**  
 >Om du använder VS Code, se till att Live Server-tillägget är installerat.  
@@ -38,4 +38,4 @@ Följ stegen nedan för att ladda ner och köra projektet lokalt på din dator:
 
 ## 🔗 Länk till GitHub
 För att se koden besök gärna GitHub-sidan:  
-https://github.com/vczarnotta/about-me
+https://github.com/vczarnotta/CSS-grid-workshop
