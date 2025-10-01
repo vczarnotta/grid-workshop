@@ -5,7 +5,7 @@ Syftet med övningen var att utforska och praktiskt testa CSS Grid och bygga en 
 
 Jag arbetade tillsammans med mina klasskamrater Agnes och Max för att skapa en sida som är responsiv och strukturerad med moderna layoutmetoder.
 
-##🛠️ Tekniker som användes
+## 🛠️ Tekniker som användes
 
 - HTML5
 - CSS3 (med fokus på CSS Grid)
